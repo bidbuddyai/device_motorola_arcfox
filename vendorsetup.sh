@@ -5,10 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_arcfox-user
-add_lunch_combo omni_arcfox-userdebug
-add_lunch_combo omni_arcfox-eng
-
 # OrangeFox Build Configurations
 export FOX_BUILD_DEVICE="arcfox"
 export OF_MAINTAINER="bidbuddyai"

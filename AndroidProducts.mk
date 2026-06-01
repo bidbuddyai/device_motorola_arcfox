@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_arcfox.mk
+    $(LOCAL_DIR)/twrp_arcfox.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_arcfox-user \
-    omni_arcfox-userdebug \
-    omni_arcfox-eng
+    twrp_arcfox-user \
+    twrp_arcfox-userdebug \
+    twrp_arcfox-eng
